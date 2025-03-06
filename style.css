@@ -1,0 +1,29 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+h1{
+    padding: 30px;
+    background-color: aquamarine;
+    color: black;
+}
+div{
+    display: flex;
+}
+.step-1{
+    margin: 30px;
+    background-color: aqua;
+    color: black;
+    padding: 20px;
+    max-width: 500px;
+}
+h2{
+    margin-bottom: 20px;
+}
+.step-2{
+    margin: 30px;
+    background-color: aqua;
+    color: black;
+    padding: 20px;
+    max-width: 500px;
+}
